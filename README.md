@@ -1,5 +1,6 @@
 # Liams Calculator App
 Liams Calculator is a web application that will help you solve math equations.
+Keep in mind that this project is not finished yet!
 
 ## About
 This calculator is made for the purpose of solving simple equations.
