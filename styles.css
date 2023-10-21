@@ -29,7 +29,8 @@ div.screen {
 h1 {
     text-align: left;
     margin: 0px 15px;
-    font-size: 20px;
+    padding-top: 25px;
+    font-size: 32px;
 }
 
 h1:first-child {
